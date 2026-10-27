@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "이 코드를 사용하는 경우 아래 논문을 인용해 주십시오. / If you use this code, please cite the paper below."
+title: "Horizontal scanning lidar analysis code — MATLAB and Python (PKNU Atmospheric Remote Sensing Laboratory)"
+abstract: >-
+  MATLAB and Python code to retrieve the extinction coefficient, Angstrom
+  exponent and depolarization ratio from horizontally scanning aerosol lidar
+  observations, using the multi-section reference value method of
+  Shin et al. (2024). Released for the KOSAE 2026 training session.
+authors:
+  - family-names: Shin
+    given-names: Juseon
+    affiliation: "Atmospheric Remote Sensing Laboratory, Pukyong National University"
+  - family-names: Noh
+    given-names: Youngmin
+    affiliation: "Atmospheric Remote Sensing Laboratory, Pukyong National University"
+
+keywords:
+  - lidar
+  - aerosol
+  - extinction coefficient
+  - Angstrom exponent
+  - depolarization ratio
+  - Klett inversion
+preferred-citation:
+  type: article
+  title: "Multi-section reference value for the analysis of horizontally scanning aerosol lidar observations"
+  authors:
+    - family-names: Shin
+      given-names: Juseon
+    - family-names: Kim
+      given-names: Gahyeong
+    - family-names: Kim
+      given-names: Dukhyeon
+    - family-names: Tesche
+      given-names: Matthias
+    - family-names: Park
+      given-names: Gahyeon
+    - family-names: Noh
+      given-names: Youngmin
+  journal: "Atmospheric Measurement Techniques"
+  volume: 17
+  issue: 2
+  start: 397
+  end: 406
+  year: 2024
+  doi: "10.5194/amt-17-397-2024"

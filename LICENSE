@@ -1,0 +1,56 @@
+이용 조건 / Terms of Use
+=========================
+
+Copyright (c) 2026
+부경대학교 대기원격탐사연구실
+Atmospheric Remote Sensing Laboratory, Pukyong National University,
+Busan, Republic of Korea
+
+
+1. 권리 귀속
+   본 저장소의 코드 및 분석 방법에 대한 저작권과 관련 특허권은
+   부경대학교 대기원격탐사연구실에 있습니다.
+
+   관련 등록특허 : 「스캐닝 라이다를 이용한 에어로졸 관측시스템 및 방법」
+
+2. 허용되는 이용
+   비영리 학술 연구 및 교육 목적에 한하여 본 코드의 사용, 복제, 수정을
+   허용합니다.
+
+3. 인용 의무
+   본 코드 또는 본 분석 방법을 이용한 모든 발표 · 논문 · 보고서에는
+   아래 논문을 인용하여야 합니다.
+
+       Shin, J., Kim, G., Kim, D., Tesche, M., Park, G., and Noh, Y.:
+       Multi-section reference value for the analysis of horizontally
+       scanning aerosol lidar observations,
+       Atmospheric Measurement Techniques, 17, 397-406, 2024.
+       https://doi.org/10.5194/amt-17-397-2024
+
+4. 제한
+   상업적 이용, 본 저장소 외부로의 재배포, 특허 범위에 해당하는 장치 ·
+   방법의 구현에는 사전 서면 동의가 필요합니다.
+   문의 : 부경대학교 대기원격탐사연구실
+
+5. 보증의 부인
+   본 코드는 "있는 그대로" 제공되며, 명시적이든 묵시적이든 어떠한 보증도
+   하지 않습니다. 본 코드의 사용으로 발생하는 결과에 대하여 저작권자는
+   책임을 지지 않습니다.
+
+
+--------------------------------------------------------------------------
+English summary (the Korean text above governs)
+
+Copyright (c) 2026 Atmospheric Remote Sensing Laboratory,
+Pukyong National University, Busan, Republic of Korea.
+
+Use, reproduction and modification are permitted for non-commercial
+academic research and educational purposes only. Any presentation, paper
+or report that uses this code or this analysis method must cite
+Shin et al. (2024), doi:10.5194/amt-17-397-2024.
+
+Commercial use, redistribution outside this repository, and
+implementation of devices or methods covered by the related patent
+require prior written permission.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
